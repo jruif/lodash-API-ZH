@@ -1,10 +1,7 @@
-# lodash v4.0.0-pre（API中文）
+# lodash v3.10.1-pre（API中文）
 
 一切关于lodash的使用请移步[lodash](https://lodash.com/) 查看，本文档暂时只做翻译API。
 
-
-
-# <a href="https://lodash.com/">lodash</a> <span>v3.10.1</span>
 
 <!-- div class="toc-container" -->
 
